@@ -1,6 +1,6 @@
 ###################################################################################################
 ##                                                                                               ##
-## Citer - A FUNCTION TO ACQUIRE DOIs OF PAPERS CITING PAPERS IN A VECTOR OF DOIs OF INTEREST ##
+## Citer - A FUNCTION TO ACQUIRE DOIs OF PAPERS CITING PAPERS IN A VECTOR OF DOIs OF INTEREST    ##
 ##                                                                                               ##
 ## CREATED BY: MICHAEL FRASER, Ph.D.                                                             ##
 ## CREATED ON: MARCH 15, 2023                                                                    ##
